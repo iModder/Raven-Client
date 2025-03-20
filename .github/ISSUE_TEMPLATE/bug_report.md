@@ -7,31 +7,25 @@ assignees: iFamished
 
 ---
 
-**Describe the bug**
-// A clear and concise description of what the bug is.
+**Bug description:**
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Steps to reproduce:**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+
+**Expected behavior:**
+
 
 **Operating system:**
- - Windows, Mac, or Linux (If Linux, please provide distro)
+
 
 **Modpack version:**
-- Provide full version (ex. 2.3-snapshot_4)
+
+
 **Minecraft version:**
 
-**Launcher:**
-- Modrinth, Official, Prism, etc.
 
-**Additional context**
-Add any other context about the problem here.
+**Launcher:**
+
+
+# test
