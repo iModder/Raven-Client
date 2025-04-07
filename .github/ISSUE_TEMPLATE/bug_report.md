@@ -17,7 +17,7 @@ assignees: iFamished
 
 
 **Operating system:**
-
+Windows, Mac, Linux, etc.
 
 **Modpack version:**
 
@@ -26,3 +26,4 @@ assignees: iFamished
 
 
 **Launcher:**
+Prism, Vanilla, etc.
